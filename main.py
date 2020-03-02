@@ -134,7 +134,7 @@ def main():
     	      '         '
       '[G1]Nama       : [P1]MUHAMMAD AMIN','[R1]'
       '         '
-          'Script     : TELKOMSEL OPOK 2020','[R1]'
+          'Script     : TELKOMSEL OPOK & MAXSTREAM 2020','[R1]'
                 '         '
       '[G1]Limit      : 500 MB ','[Y1]'
             '         '
